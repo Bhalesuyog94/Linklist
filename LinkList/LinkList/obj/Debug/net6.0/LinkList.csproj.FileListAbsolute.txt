@@ -1,0 +1,15 @@
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.csproj.AssemblyReference.cache
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.AssemblyInfoInputs.cache
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.AssemblyInfo.cs
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.csproj.CoreCompileInputs.cache
+C:\Users\Syuog\source\repos\LinkList\LinkList\bin\Debug\net6.0\LinkList.exe
+C:\Users\Syuog\source\repos\LinkList\LinkList\bin\Debug\net6.0\LinkList.deps.json
+C:\Users\Syuog\source\repos\LinkList\LinkList\bin\Debug\net6.0\LinkList.runtimeconfig.json
+C:\Users\Syuog\source\repos\LinkList\LinkList\bin\Debug\net6.0\LinkList.dll
+C:\Users\Syuog\source\repos\LinkList\LinkList\bin\Debug\net6.0\LinkList.pdb
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.dll
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\refint\LinkList.dll
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.pdb
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\LinkList.genruntimeconfig.cache
+C:\Users\Syuog\source\repos\LinkList\LinkList\obj\Debug\net6.0\ref\LinkList.dll
